@@ -1,16 +1,76 @@
-## Hi there 👋
+## Hi, I'm Andi 👋
 
-<!--
-**andajvazi0/andajvazi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/and-ajvazi-29290a445/)
 
-Here are some ideas to get you started:
+I'm a cybersecurity student with a 6-month internship behind me, building my skills in Linux, networking, and security monitoring. I practice hands-on with TryHackMe and in my own labs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub is where I keep my study notes, lab write-ups, and projects as I grow toward a career in cybersecurity.
+
+## Objective
+
+Build the skills to become a SOC analyst by studying Linux, networking, and security monitoring, and by practicing in hands-on labs. I document everything here publicly, with the goal of landing my first SOC Analyst role and growing from there into incident response or pentesting.
+
+## Experience
+
+**Cybersecurity Intern, Sharp Group LTD** (Sept 2025 - April 2026)
+6-month internship in the Cyber Security Department. Recommendation letter from the CEO available on request.
+
+## Skills
+
+| Skill | Associated Project |
+|-------|--------------------|
+| Linux Command Line Fundamentals | [Linux Notes](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/main/linux-fundamentals) |
+| Git and GitHub Version Control | [Git Journey](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/main/git-journey) |
+| Networking Fundamentals | [Networking Notes](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/main/networking-notes) |
+| Network, System and Web Security | [ROI Academy certificates](#certifications) |
+| Incident Response | [Internship and ROI Academy module](#experience) |
+| JavaScript and Web Development | [jCoders certificates](#certifications) |
+| SIEM and Log Analysis | *Coming soon* |
+
+## Certifications
+
+**Cybersecurity (ROI Academy)**
+- Cyber Security Course, 6 months (March 2026)
+- Network Security Module (October 2025)
+- Cryptography Module (November 2025)
+- Web Security Module (December 2025)
+- System Security Module (January 2026)
+- Incident Response and Management Module (February 2026)
+
+**Programming (jCoders Academy)**
+- JavaScript (May 2025)
+- Web Fundamentals: HTML and CSS
+- Advanced Coder (April 2023)
+- Junior Coder (May 2022)
+
+## Tools
+
+**Using now**
+- **Linux (terminal):** command-line fundamentals
+- **Git and GitHub:** version control, branching, merging, pushing
+- **Git Bash:** terminal on Windows
+- **Markdown:** study notes and documentation
+- **TryHackMe:** hands-on cybersecurity labs
+
+**Learning next**
+- **Wireshark:** network traffic analysis
+- **Wazuh / Splunk Free:** SIEM and log analysis
+- **VirtualBox / VMware:** building a home lab
+- **Kali Linux:** security testing toolkit
+- **Python:** scripting and log parsing
+
+## Currently Learning
+- Wireshark and network traffic analysis
+- SIEM basics (Splunk Free / Wazuh)
+- Python for log analysis
+- Security+ preparation
+
+
+## Projects
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| [Git Journey](https://github.com/YOUR-USERNAME/git-journey) | Practice repo for branching, merging, conflicts, stash, rebase and pushing | ✅ Done |
+| [Linux Notes](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/main/linux-fundamentals) | Linux command-line notes with examples | 🔄 In progress |
+| Wazuh Home Lab | Install Wazuh, monitor a Linux VM, and write up the alerts | 🔜 Planned |
+| Wireshark Traffic Analysis | Analyze captured traffic and document what I find | 🔜 Planned |
