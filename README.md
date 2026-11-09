@@ -29,19 +29,8 @@ Build the skills to become a SOC analyst by studying Linux, networking, and secu
 
 ## Certifications
 
-**Cybersecurity (ROI Academy)**
-- Cyber Security Course, 6 months (March 2026)
-- Network Security Module (October 2025)
-- Cryptography Module (November 2025)
-- Web Security Module (December 2025)
-- System Security Module (January 2026)
-- Incident Response and Management Module (February 2026)
+Cybersecurity (ROI Academy) and Programming (jCoders Academy): [View all certificates](certificates/README.md)
 
-**Programming (jCoders Academy)**
-- JavaScript (May 2025)
-- Web Fundamentals: HTML and CSS
-- Advanced Coder (April 2023)
-- Junior Coder (May 2022)
 
 ## Tools
 
